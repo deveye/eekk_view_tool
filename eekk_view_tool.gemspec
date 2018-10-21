@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = %q{Test .}
   spec.description   = %q{Test description}
-  spec.homepage      = "www.example.com"
+  spec.homepage      = "https://github.com/deveye/eekk_view_tool"
   spec.license       = "MIT"
 
   # Prevent pushing this gem to RubyGems.org. To allow pushes either set the 'allowed_push_host'
