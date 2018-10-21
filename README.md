@@ -17,7 +17,7 @@ Or install it yourself as:
 ## Usage
 
 ```ruby
-KristosViewTool::Renderer.copyright 'Kristo', 'All rights reserved'
+EekkViewTool::Renderer.copyright 'Kristo', 'All rights reserved'
 ```
 
 ## Development
